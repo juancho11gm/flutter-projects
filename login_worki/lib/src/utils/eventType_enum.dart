@@ -1,0 +1,7 @@
+enum EventType{
+    ADVERTISING,
+    LOGISTICS,
+    MARKET_STUDIES,
+    OTHER,
+    PRODUCTION
+}
